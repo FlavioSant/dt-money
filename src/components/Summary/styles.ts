@@ -38,10 +38,27 @@ export const Container = styled.div`
 
   @media (max-width: 768px) {
     grid-template-columns: 1fr 1fr;
+    gap: 1rem;
     margin-top: -9rem;
 
+    div {
+      padding: 1rem 1.5rem;
+
+      strong {
+        font-size: 1.5rem;
+      }
+
+      &.highlight-background {
+        grid-column: span 2;
+      }
+    }
+  }
+
+  @media (max-width: 425px) {
+    grid-template-columns: 1fr;
+
     div.highlight-background {
-      grid-column: span 2;
+      grid-column: initial;
     }
   }
 `;

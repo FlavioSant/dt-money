@@ -47,6 +47,7 @@ export const NotTransaction = styled.div`
   justify-content: center;
   flex-direction: column;
   margin-top: 8rem;
+  text-align: center;
 
   img {
     width: 8rem;
