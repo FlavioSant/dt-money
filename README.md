@@ -5,7 +5,7 @@
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias-utilizadas">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 </p>
 
@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Create React App](https://create-react-app.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 🚀 Como Utilizar
+## 🚀 Como Executar
 
 - Necessário ter instalado o [Node.js](https://nodejs.org/en/) e [Yarn](https://yarnpkg.com/) para executar o projeto.
 
